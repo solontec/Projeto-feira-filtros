@@ -1,6 +1,6 @@
 <?php
 // Conexão com o banco
-$conn = new mysqli("localhost", "root", "", "filtros");
+$conn = new mysqli("localhost", "root", "", "trabalhos");
 
 // Arrays para os selects
 $cursos = ['t.i', 'quimica', 'rh', 'adm'];
