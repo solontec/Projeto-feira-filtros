@@ -1,3 +1,5 @@
+USE trabalhos;
+
 DROP TABLE IF EXISTS trabalhos;
 
 
